@@ -1,6 +1,3 @@
-# FX-Auto-Trading
-I am independently researching automated forex trading.
-
 # 自動売買プログラム: Bollinger_BTCJPY & Bollinger_USDJPY
 
 このリポジトリには、`Bollinger_BTCJPY` と `Bollinger_USDJPY` という2つの自動売買プログラムが含まれています。どちらもボリンジャーバンドを参考にして、BTCJPY または USDJPY の取引を自動で行います。
