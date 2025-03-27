@@ -156,5 +156,5 @@ if __name__ == "__main__":
             # 🔹 ポジション決済
             close_position(SYMBOL)
 
-            # 🔹 5秒待機
-            time.sleep(10)
+            # 🔹 1分待機
+            time.sleep(60)
